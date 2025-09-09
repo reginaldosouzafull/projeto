@@ -1,2 +1,2 @@
-# projeto
-meus proejtos
+# PROJETOS
+Meus Projetos - Iniciante
